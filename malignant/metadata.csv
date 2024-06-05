@@ -1,0 +1,25 @@
+isic_id,attribution,copyright_license,acquisition_day,age_approx,anatom_site_general,benign_malignant,clin_size_long_diam_mm,concomitant_biopsy,dermoscopic_type,diagnosis,diagnosis_confirm_type,family_hx_mm,image_type,lesion_id,mel_class,mel_mitotic_index,mel_thick_mm,mel_type,mel_ulcer,melanocytic,patient_id,personal_hx_mm,sex
+ISIC_0046242,Anonymous,CC-BY,,75,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.66,lentigo maligna melanoma,False,True,,,male
+ISIC_0046338,Anonymous,CC-BY,,,,malignant,,True,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.50,superficial spreading melanoma,False,True,,,male
+ISIC_0046345,Anonymous,CC-BY,,,,malignant,,True,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,,superficial spreading melanoma,,True,,,
+ISIC_0046372,Anonymous,CC-BY,,70,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.20,lentigo maligna melanoma,False,True,,,male
+ISIC_0046416,Anonymous,CC-BY,,85,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.40,superficial spreading melanoma,False,True,,,female
+ISIC_0046422,Anonymous,CC-BY,,75,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,melanoma in situ,0/mm^2,0.00,,False,True,,,female
+ISIC_0046441,Anonymous,CC-BY,,40,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.70,superficial spreading melanoma,False,True,,,female
+ISIC_0046443,Anonymous,CC-BY,,65,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.55,superficial spreading melanoma,False,True,,,
+ISIC_0046449,Anonymous,CC-BY,,50,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.90,superficial spreading melanoma,False,True,,,male
+ISIC_0046596,Anonymous,CC-BY,,50,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.30,superficial spreading melanoma,False,True,,,male
+ISIC_0046741,Anonymous,CC-BY,,50,,malignant,,True,contact non-polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.25,superficial spreading melanoma,False,True,,,male
+ISIC_0046908,Anonymous,CC-BY,,50,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.40,superficial spreading melanoma,False,True,,,female
+ISIC_0046983,Anonymous,CC-BY,,55,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.70,,,True,,,
+ISIC_0046985,Anonymous,CC-BY,,75,,malignant,,True,contact polarized,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.20,,,True,,,
+ISIC_0429825,Memorial Sloan Kettering Cancer Center,CC-BY,,65,anterior torso,malignant,5.60,True,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.50,,False,True,,,male
+ISIC_1372928,Memorial Sloan Kettering Cancer Center,CC-BY,,80,upper extremity,malignant,8.70,True,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.10,superficial spreading melanoma,False,True,,,female
+ISIC_2243756,Memorial Sloan Kettering Cancer Center,CC-BY,,80,upper extremity,malignant,10.10,True,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.30,superficial spreading melanoma,False,True,,,male
+ISIC_2433965,Memorial Sloan Kettering Cancer Center,CC-BY,,70,lower extremity,malignant,4.60,True,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.30,,False,True,,,female
+ISIC_2607827,"The University of Queensland Diamantina Institute, The University of Queensland, Dermatology Research Centre",CC-BY,1,55,upper extremity,malignant,,True,contact non-polarized,melanoma,histopathology,True,dermoscopic,IL_2267077,invasive melanoma,0/mm^2,0.32,superficial spreading melanoma,False,,IP_7887363,True,male
+ISIC_3478473,Memorial Sloan Kettering Cancer Center,CC-BY,,50,anterior torso,malignant,8.40,True,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.30,superficial spreading melanoma,False,True,,,male
+ISIC_3763984,Memorial Sloan Kettering Cancer Center,CC-BY,,60,posterior torso,malignant,12.20,True,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.40,,False,True,,,female
+ISIC_3872441,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,45,lower extremity,malignant,1.50,True,,melanoma,histopathology,,dermoscopic,IL_5443460,invasive melanoma,0/mm^2,0.30,,False,True,IP_4714140,,female
+ISIC_5330187,Memorial Sloan Kettering Cancer Center,CC-BY,,70,anterior torso,malignant,10.40,True,,melanoma,histopathology,,dermoscopic,,invasive melanoma,0/mm^2,0.60,,False,True,,,male
+ISIC_9543045,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,,30,posterior torso,malignant,8.20,True,,melanoma,histopathology,,dermoscopic,IL_5515726,invasive melanoma,0/mm^2,0.90,,False,True,IP_4627929,,male
